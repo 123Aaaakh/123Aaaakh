@@ -16,10 +16,7 @@
 
 - I’m deeply passionate about **Cybersecurity**, **Bug Bounty**, and **Ethical Hacking**    
 - Currently learning: Linux, Web Security, and Python for Hacking  
-- Focused on **Web Pentesting** and **Network Security**  
-- Fun fact: I love turtles and the cyber world 
-
-
+- Focused on **Web Pentesting** and **Network Security**   
 
 ## Tech Stack
 - **Languages**: Python, JavaScript
