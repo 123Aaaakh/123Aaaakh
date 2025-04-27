@@ -27,8 +27,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123Aaaakh&show_icons=true&theme=tokyonight" width="400" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Aaaakh&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123Aaaakh&show_icons=true&theme=aura_dark" width="400" style="margin-right: 30px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Aaaakh&layout=compact&theme=aura_dark" width="350" />
 </p>
 
 ---
