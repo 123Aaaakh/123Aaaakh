@@ -10,12 +10,11 @@
 
 > *"Control is an illusion."*
 
-I am a ghost in the machine, operating out of **Surakarta**. 
+I am, operating out of **World**. 
 While others look at the screen, I look at what's behind it. I don't just write code; I dismantle it to understand the absurdity of its existence.
 
-* **Role:** Cybersecurity Student @ UMS
-* **Philosophy:** Absurdism & Low-Level Logic
-* **Mission:** Understanding the kernel of reality.
+* **Role:** Cybersec
+* **Philosophy:** Absurdism
 
 ---
 
@@ -34,15 +33,9 @@ My weapons of choice. From the metal up to the shell.
 
 ### `root@Axisss:~/logs# neofetch`
 
+
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123Aaaakh&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <div align="center">
-  <br/>
-    <img src="https://media.giphy.com/media/3o7TKSHBqbXVVZy5ZC/giphy.gif" width="100%" alt="Hacking GIF">
-    <br/>
-    <code>>_ SYSTEM_ANALYSIS: ONGOING...</code>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=123Aaaakh&theme=radical&hide_border=true&mode=daily&background=000000" alt="GitHub Streak" />
   </div>
 </div>
 
