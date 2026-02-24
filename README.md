@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
 </div>
 
-### <div align="center">🕵️‍♂️ Identity: Satria Maulana Hidayat </div>
+### <div align="center">🕵️‍♂️ Identity: LAN </div>
 
 <div align="center">
   <i>"One must imagine Sisyphus happy... while debugging Assembly."</i>
@@ -18,9 +18,7 @@
 
 I'm a Cybersecurity student at **Muhammadiyah University of Surakarta (UMS)** with a deep passion for low-level programming and Red Team operations. When I'm not dual-booting **Kali Linux** or configuring **Hyprland** to look cinematic, I'm likely questioning the meaning of life or analyzing *Adventure Time* lore.
 
-* 🔭 **Current Projects:**
-    * **RAI:** An AI-powered hacking tool I'm developing.
-    * **Mind of Sentinel:** A comprehensive cybersecurity platform.
+
 * 🌱 **Learning:** Deep diving into **Binary Exploitation**, **Malware Analysis**, and philosophical texts.
 * 🎯 **Goals:** Attending **Black Hat MEA 2026** & mastering the art of the breach.
 * 📸 **Hobbies:** Capturing the "aesthetic of the void" through photography.
@@ -64,3 +62,4 @@ I'm a Cybersecurity student at **Muhammadiyah University of Surakarta (UMS)** wi
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 </div>
+
