@@ -1,52 +1,66 @@
-```bash                                                                          
-   ,---,                                                   ,-.  ,---,     
-  '  .' \                                              ,--/ /|,--.' |     
- /  ;    '.                                          ,--. :/ ||  |  :     
-:  :       \                                         :  : ' / :  :  :     
-:  |   /\   \    ,--.--.      ,--.--.      ,--.--.   |  '  /  :  |  |,--. 
-|  :  ' ;.   :  /       \    /       \    /       \  '  |  :  |  :  '   | 
-|  |  ;/  \   \.--.  .-. |  .--.  .-. |  .--.  .-. | |  |   \ |  |   /' : 
-'  :  | \  \ ,' \__\/: . .   \__\/: . .   \__\/: . . '  : |. \'  :  | | | 
-|  |  '  '--'   ," .--.; |   ," .--.; |   ," .--.; | |  | ' \ \  |  ' | : 
-|  :  :        /  /  ,.  |  /  /  ,.  |  /  /  ,.  | '  : |--'|  :  :_:,' 
-|  | ,'       ;  :   .'   \;  :   .'   \;  :   .'   \;  |,'   |  | ,'     
-`--''         |  ,     .-./|  ,     .-./|  ,     .-./'--'     `--''       
-               `--`---'     `--`---'     `--`---'                         
-```
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+Zone;Keep+Absurd" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+Friend.;System.out.print(%22I+am+Satria.%22)%3B;Exploiting+Binaries...;Contemplating+the+Absurd.;Welcome+to+my+digital+void." alt="Typing SVG" />
+</div>
 
-<img align="center" alt="Cyber Security GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdlbms5Yzd1MXYyY3RrbXU2bHJheDAza3Q0cG1ocjVqd3R4aWRkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif" width="500" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
+</div>
+
+### <div align="center">🕵️‍♂️ Identity: Satria Maulana Hidayat </div>
+
+<div align="center">
+  <i>"One must imagine Sisyphus happy... while debugging Assembly."</i>
+</div>
 
 <br/>
 
-- I’m deeply passionate about **Cybersecurity**, **Bug Bounty**, and **Ethical Hacking**    
-- Currently learning: Linux, Web Security, and Python for Hacking  
-- Focused on **Web Pentesting** and **Network Security**   
+### 👨‍💻 About Me
 
-## Tech Stack
-- **Languages**: Python, JavaScript
-- **Tools**: Wireshark, Burp Suite, Metasploit, Nmap
-- **OS**: Kali Linux, Windows
+I'm a Cybersecurity student at **Muhammadiyah University of Surakarta (UMS)** with a deep passion for low-level programming and Red Team operations. When I'm not dual-booting **Kali Linux** or configuring **Hyprland** to look cinematic, I'm likely questioning the meaning of life or analyzing *Adventure Time* lore.
 
----
+* 🔭 **Current Projects:**
+    * **RAI:** An AI-powered hacking tool I'm developing.
+    * **Mind of Sentinel:** A comprehensive cybersecurity platform.
+* 🌱 **Learning:** Deep diving into **Binary Exploitation**, **Malware Analysis**, and philosophical texts.
+* 🎯 **Goals:** Attending **Black Hat MEA 2026** & mastering the art of the breach.
+* 📸 **Hobbies:** Capturing the "aesthetic of the void" through photography.
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123Aaaakh&show_icons=true&theme=aura_dark" width="400" style="margin-right: 30px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Aaaakh&layout=compact&theme=aura_dark" width="350" />
-</p>
+<br/>
 
----
+### 🛠️ The Arsenal
 
-## 🔗 Connect with me 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/saxother?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+| **Category** | **Stack** |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| **OS / Environment** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) |
+| **Tools** | ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |
 
----
+<br/>
 
-## 💬 Motto
-> "The quieter you become, the more you can hear." — **Cyberpunk wisdom**
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axisss&show_icons=true&theme=gotham&hide_border=true&bg_color=000000" alt="Satria's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axisss&layout=compact&theme=gotham&hide_border=true&bg_color=000000" alt="Top Langs" />
+</div>
 
+<br/>
+
+### 🧠 Philosophical Dump
+
+> *"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."* — **Jean-Paul Sartre**
+
+<br/>
+
+<div align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@ums.ac.id">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+</div>
