@@ -1,65 +1,78 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello%2C+Friend.;System.out.print(%22I+am+Satria.%22)%3B;Exploiting+Binaries...;Contemplating+the+Absurd.;Welcome+to+my+digital+void." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E63946&background=00000000&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+friend.;Are+you+seeing+this+too%3F;>_INIT_SYSTEM: [Satria_Maulana];>_LOADING_MODULES: C%2C+ASM%2C+Philosophy;>_STATUS: EXISTING (barely)." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
+  <img src="https://user-images.githubusercontent.com/54521023/116969931-bedb0100-acd4-11eb-99a9-ff5e0ee9f31f.gif" width="100%">
 </div>
 
-### <div align="center">🕵️‍♂️ Identity: LAN </div>
+### ```>_ WHOAMI```
 
 <div align="center">
-  <i>"One must imagine Sisyphus happy... while debugging Assembly."</i>
+<i>"Control can sometimes be an illusion. But sometimes you need illusion to gain control."</i>
 </div>
 
-<br/>
+I am **Satria**. A ghost operating out of UMS (Muhammadiyah University of Surakarta).
 
-### 👨‍💻 About Me
+I exist in the liminal space between high-level abstractions and low-level reality. While others are content with the GUI, I'm digging through the kernel panics and memory leaks, trying to find where the system breaks.
 
-I'm a Cybersecurity student at **Muhammadiyah University of Surakarta (UMS)** with a deep passion for low-level programming and Red Team operations. When I'm not dual-booting **Kali Linux** or configuring **Hyprland** to look cinematic, I'm likely questioning the meaning of life or analyzing *Adventure Time* lore.
+I don't just use **Kali Linux**; I live inside its terminal. I spend my time dual-booting realities—balancing the absurdism of existence with the precise logic of **Assembly** code. My **Hyprland** config isn't just ricing; it's an attempt to organize the chaos.
 
+---
 
-* 🌱 **Learning:** Deep diving into **Binary Exploitation**, **Malware Analysis**, and philosophical texts.
-* 🎯 **Goals:** Attending **Black Hat MEA 2026** & mastering the art of the breach.
-* 📸 **Hobbies:** Capturing the "aesthetic of the void" through photography.
+### ```>_ CURRENT_OPERATIONS```
 
-<br/>
+* **[ █████ ] `RAI.sh`**: An AI-powered hacking assistant designed to automate the intrusion. The machine is learning to break itself.
+* **[ █████ ] `Mind_of_Sentinel.elf`**: Building a cybersecurity platform. A fortress, or perhaps just a more elaborate trap.
 
-### 🛠️ The Arsenal
+---
 
-| **Category** | **Stack** |
+### ```>_ THE_ARSENAL```
+
+The tools required to dismantle the illusion.
+
+| **CLASSIFICATION** | **PAYLOADS** |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=gnu&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| **OS / Environment** | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) |
-| **Tools** | ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) |
-
-<br/>
-
-### 📊 GitHub Stats
+| **Low-Level Injection** | `C` `Assembly` `Python` |
+| **Operating Systems** | `Kali Linux` `Arch Linux` (Hyprland Riced) |
+| **Exploitation** | `Metasploit Framework` `GDB` `Reverse Engineering` |
+| **Philosophy** | `Existentialism` `Absurdism` (Camus/Sartre) |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axisss&show_icons=true&theme=gotham&hide_border=true&bg_color=000000" alt="Satria's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axisss&layout=compact&theme=gotham&hide_border=true&bg_color=000000" alt="Top Langs" />
+  <br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Assembly-555555?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
+</div>
+
+---
+
+### ```>_ SYSTEM_LOGS (Stats)```
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axisss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946" alt="Satria's Github Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axisss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946" alt="Top Langs" height="150"/>
 </div>
 
 <br/>
 
-### 🧠 Philosophical Dump
-
-> *"Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."* — **Jean-Paul Sartre**
-
-<br/>
+> *"One must imagine Sisyphus happy. Even when the exploit fails for the 100th time."*
 
 <div align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://user-images.githubusercontent.com/54521023/116969931-bedb0100-acd4-11eb-99a9-ff5e0ee9f31f.gif" width="100%">
+</div>
+
+<div align="center">
+  <code>>_ INITIATE_HANDSHAKE:</code><br/>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@ums.ac.id">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
-</div>
-
