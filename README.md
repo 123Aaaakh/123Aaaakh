@@ -36,9 +36,9 @@ My weapons of choice. From the metal up to the shell.
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=123Aaaakh&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=D72638&icon_color=D72638&text_color=ffffff" alt="Satria's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123Aaaakh&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Aaaakh&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=D72638&text_color=ffffff" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Aaaakh&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <br>
@@ -62,4 +62,5 @@ My weapons of choice. From the metal up to the shell.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
   </a>
 </div>
+
 
