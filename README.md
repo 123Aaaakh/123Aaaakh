@@ -38,7 +38,12 @@ My weapons of choice. From the metal up to the shell.
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123Aaaakh&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=123Aaaakh&bg_color=000000&color=D72638&line=D72638&point=ffffff&hide_border=true" width="100%" />
+  <div align="center">
+  <br/>
+    <img src="https://media.giphy.com/media/3o7TKSHBqbXVVZy5ZC/giphy.gif" width="100%" alt="Hacking GIF">
+    <br/>
+    <code>>_ SYSTEM_ANALYSIS: ONGOING...</code>
+  </div>
 </div>
 
 <br>
@@ -62,6 +67,7 @@ My weapons of choice. From the metal up to the shell.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
   </a>
 </div>
+
 
 
 
