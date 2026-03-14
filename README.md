@@ -8,19 +8,17 @@
 
 ### `root@Axisss:~/identity# cat whoami.txt`
 
-> *"Control is an illusion."*
-
-I am, operating out of **World**. 
+> *"Metamorphosis"*
+ 
 While others look at the screen, I look at what's behind it. I don't just write code; I dismantle it to understand the absurdity of its existence.
 
 * **Role:** Cybersec
-* **Philosophy:** Absurdism
 
 ---
 
 ### `root@Axisss:~/arsenal# ls -la`
 
-My weapons of choice. From the metal up to the shell.
+From the metal up to the shell.
 
 | **Layer** | **Language** | **Proficiency** |
 | :--- | :--- | :--- |
@@ -53,10 +51,10 @@ My weapons of choice. From the metal up to the shell.
 <div align="center">
   <code>[ CONNECT_ENCRYPTED_CHANNEL ]</code><br/>
   <br/>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/y.must_3inst">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black" alt="Instagram"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:satriam583@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
   </a>
 </div>
