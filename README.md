@@ -12,11 +12,11 @@
  
 While others look at the screen, I look at what's behind it. I don't just write code; I dismantle it to understand the absurdity of its existence.
 
-* **Role:** Cybersec
+* **Role:** Cybersec anthusiast
 
 ---
 
-### `root@Axisss:~/arsenal# ls -la`
+### `root@Axisss:~/home# ls -la`
 
 From the metal up to the shell.
 
