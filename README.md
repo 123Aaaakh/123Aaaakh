@@ -39,7 +39,7 @@ From the metal up to the shell.
 
 <br>
 
-### `root@Axisss:~/wisdom# tail -f philosophy.log`
+### `root@Axisss:~/Documents# tail -f think.log`
 
 > "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy."
 > — **Albert Camus**
